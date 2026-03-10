@@ -1,0 +1,6 @@
+{
+  "enginePathDla0": "reid_resnet50_dla0.engine",
+  "enginePathDla1": "reid_resnet50_dla1.engine",
+  "engineHasPreprocess": false,
+  "_comment": "engine paths relative to ReId/; engineHasPreprocess: true if engine bakes mean/std"
+}
